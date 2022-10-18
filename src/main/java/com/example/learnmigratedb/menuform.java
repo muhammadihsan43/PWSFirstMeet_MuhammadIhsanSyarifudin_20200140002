@@ -139,7 +139,7 @@ public class menuform extends javax.swing.JFrame {
     }//GEN-LAST:event_jLabel3MouseClicked
 
     private void jLabel4MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel4MouseClicked
-        keteranganPembelianform kb = new keteranganPembelianform();
+        keterangan_pembelian kb = new keterangan_pembelian();
         kb.setVisible(true);
         this.hide();
     }//GEN-LAST:event_jLabel4MouseClicked

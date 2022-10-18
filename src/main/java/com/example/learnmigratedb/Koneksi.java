@@ -11,7 +11,7 @@ import java.sql.SQLException;
 /**
  *
  * @author hp
- */
+ *///
 class Koneksi {
     
     private static Connection koneksi;
